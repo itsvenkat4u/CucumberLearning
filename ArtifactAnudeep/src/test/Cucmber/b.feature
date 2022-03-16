@@ -17,3 +17,4 @@ Feature: Send email functionality in accounts page
       | page_name   | value | color  |
       | client page |     5 | Yellow |
       | Bond page   |     6 | pink   |
+      |Accout Page  | 7     | Red     |
